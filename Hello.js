@@ -2,5 +2,5 @@
 
 function myFunction()
 {
-  window.alert("Hello, world");
+  window.alert("Hi. My name is Kiera");
 }
